@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+.orange{
+    color:orange;
+}
+.brown{
+    color: brown;
+}
+.notfound-container{
+    padding: 17
+    0px 0px;
+}
+.founder-img{
+    height: 400px;
+    width: 360px;
+}

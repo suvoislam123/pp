@@ -1,0 +1,16 @@
+.spot img{
+    width: 100%;
+}
+.spot{
+    width: 80%;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+@media only screen and (min-width:968px) {
+    .spot{
+        width: 50%;
+    }
+    
+}
